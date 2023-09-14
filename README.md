@@ -1,6 +1,5 @@
-Hello World!
-
-<br>I am so happy to see you visiting my website. I am always joyful and I enjoy learning. 
+Hello World!<br/>
+I am so happy to see you visiting my website. I am always joyful and I enjoy learning. 
 
 <br>I have just hosted this simple website, and I am really glad to finally cross this off my to-do list. 
 
